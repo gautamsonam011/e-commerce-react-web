@@ -4,7 +4,7 @@ import logo from "../Images/logo.png";
 
 function Footer() {
   return (
-    <div className='footer-bg'>
+    <div>
       <div className='footer-container'>
         <div className='column'>
           <h1>Address</h1>
@@ -17,7 +17,7 @@ function Footer() {
           <h1>Support</h1>
         </div>
       </div>
-      <div className="footer">
+      <div>
         <p>@sonamGautam</p>
       </div>
     </div>
